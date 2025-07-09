@@ -1,0 +1,924 @@
+
+===========================================================================================================================================
+===========================================================================================================================================
+===========================================================================================================================================
+
+==================================================================== Meta JSON Halaman 
+
+{
+  "url": "https://ai-dinar-makeup-official-website.vercel.app/",
+  "status": 200,
+  "links": {
+    "internal": [],
+    "external": [
+      {
+        "href": "tel:08980000845",
+        "text": "0898-0000-845",
+        "title": "",
+        "base_domain": ""
+      },
+      {
+        "href": "mailto:dinar.dumilah@gmail.com",
+        "text": "dinar.dumilah@gmail.com",
+        "title": "",
+        "base_domain": ""
+      },
+      {
+        "href": "https://instagram.com/dinarmakeup",
+        "text": "@dinarmakeup",
+        "title": "",
+        "base_domain": "instagram.com"
+      },
+      {
+        "href": "https://wa.me/628980000845",
+        "text": "Chat via WhatsApp",
+        "title": "",
+        "base_domain": "wa.me"
+      }
+    ]
+  },
+  "media": {
+    "images": [
+      {
+        "src": "/img/background/bg-flower.png",
+        "data": "",
+        "alt": "flower",
+        "desc": "Tentang Kami Kami hadir untuk menjadikan hari istimewa Anda lebih berkesan melalui layanan yang elegan, personal, dan profesional. Tim Profesional Dinar Makeup Filosofi Kami Dinar Makeup hadir dari kecintaan mendalam terhadap dunia kecantikan dan momen pernikahan, dengan tujuan memberikan pengalaman yang elegan, personal, dan tak terlupakan bagi setiap calon pengantin. Visi Kami Menjadi mitra terpercaya dan pilihan utama dalam dunia Wedding Organizer dan Makeup Profesional di Bandung dan sekitarnya, dengan mengutamakan kualitas layanan, kepercayaan, dan estetika yang konsisten. Misi Kami \"Membantu pasangan pengantin merancang dan melaksanakan pernikahan dengan sempurna melalui layanan yang profesional, personal, dan inovatif.\" Pengalaman 5+ Tahun Di industri pernikahan | Since 2016 Spesialisasi Makeup Profesional & Elegant Selengkapnya Galeri Kami Kenangan Terindah Untuk Pasangan yang Serasi Makeup Tata rias profesional untuk penampilan sempurna Dekorasi Transformasi ruangan sesuai tema pernikahan Anda Selengkapnya Paket Paket yang Disesuaikan untuk Setiap Cerita Cinta Anda Gallery Preview Rp\u00a00 Wedding Fitur Sorotan Detail Paket Order Batal Selengkapnya Ulasan Tentang Kami Suara Hati Klien yang Telah Kami Layani Semua Pelanggan yang Memberikan Feedback Jane D \"Pelayanan dari Dinar Makeup sangat memuaskan! Hasil makeup natural dan tahan lama seharian.\" Harsh P. \"Pelayanan dari Dinar Makeup sangat memuaskan! Hasil makeup natural dan tahan lama seharian.\" Jane D \"Pelayanan dari Dinar Makeup sangat memuaskan! Hasil makeup natural dan tahan lama seharian.\" Harsh P. \"Pelayanan dari Dinar Makeup sangat memuaskan! Hasil makeup natural dan tahan lama seharian.\" Tim Kami Profesional di Balik Setiap Momen Tak Terlupakan Kotak Kami Hubungi Tim Dinar Makeup \"Siap merancang hari spesial Anda? Hubungi kami untuk konsultasi gratis. Kami dengan senang hati akan membantu menjawab semua pertanyaan Anda dan memberikan solusi terbaik untuk pernikahan Anda.\" Alamat Studio KP Pangakalan Raja, Jl. Pangkalan Raja, RT.001/RW.005 Desa, Sukamukti, Kec. Majalaya, Kabupaten Bandung, Jawa Barat 40382 Telepon/WhatsApp 0898-0000-845 Email dinar.dumilah@gmail.com Instagram @dinarmakeup Jam Operasional Senin - Sabtu 09.00 \u2013 17.00 WIB Punya Pertanyaan? Tim kami siap membantu Anda mewujudkan pernikahan impian Anda. Hubungi kami sekarang! Chat via WhatsApp Kirim Email",
+        "score": 5,
+        "type": "image",
+        "group_id": 1,
+        "format": "png",
+        "width": null
+      },
+      {
+        "src": "/img/background/bg-flower.png",
+        "data": "",
+        "alt": "flower",
+        "desc": "Tentang Kami Kami hadir untuk menjadikan hari istimewa Anda lebih berkesan melalui layanan yang elegan, personal, dan profesional. Tim Profesional Dinar Makeup Filosofi Kami Dinar Makeup hadir dari kecintaan mendalam terhadap dunia kecantikan dan momen pernikahan, dengan tujuan memberikan pengalaman yang elegan, personal, dan tak terlupakan bagi setiap calon pengantin. Visi Kami Menjadi mitra terpercaya dan pilihan utama dalam dunia Wedding Organizer dan Makeup Profesional di Bandung dan sekitarnya, dengan mengutamakan kualitas layanan, kepercayaan, dan estetika yang konsisten. Misi Kami \"Membantu pasangan pengantin merancang dan melaksanakan pernikahan dengan sempurna melalui layanan yang profesional, personal, dan inovatif.\" Pengalaman 5+ Tahun Di industri pernikahan | Since 2016 Spesialisasi Makeup Profesional & Elegant Selengkapnya Galeri Kami Kenangan Terindah Untuk Pasangan yang Serasi Makeup Tata rias profesional untuk penampilan sempurna Dekorasi Transformasi ruangan sesuai tema pernikahan Anda Selengkapnya Paket Paket yang Disesuaikan untuk Setiap Cerita Cinta Anda Gallery Preview Rp\u00a00 Wedding Fitur Sorotan Detail Paket Order Batal Selengkapnya Ulasan Tentang Kami Suara Hati Klien yang Telah Kami Layani Semua Pelanggan yang Memberikan Feedback Jane D \"Pelayanan dari Dinar Makeup sangat memuaskan! Hasil makeup natural dan tahan lama seharian.\" Harsh P. \"Pelayanan dari Dinar Makeup sangat memuaskan! Hasil makeup natural dan tahan lama seharian.\" Jane D \"Pelayanan dari Dinar Makeup sangat memuaskan! Hasil makeup natural dan tahan lama seharian.\" Harsh P. \"Pelayanan dari Dinar Makeup sangat memuaskan! Hasil makeup natural dan tahan lama seharian.\" Tim Kami Profesional di Balik Setiap Momen Tak Terlupakan Kotak Kami Hubungi Tim Dinar Makeup \"Siap merancang hari spesial Anda? Hubungi kami untuk konsultasi gratis. Kami dengan senang hati akan membantu menjawab semua pertanyaan Anda dan memberikan solusi terbaik untuk pernikahan Anda.\" Alamat Studio KP Pangakalan Raja, Jl. Pangkalan Raja, RT.001/RW.005 Desa, Sukamukti, Kec. Majalaya, Kabupaten Bandung, Jawa Barat 40382 Telepon/WhatsApp 0898-0000-845 Email dinar.dumilah@gmail.com Instagram @dinarmakeup Jam Operasional Senin - Sabtu 09.00 \u2013 17.00 WIB Punya Pertanyaan? Tim kami siap membantu Anda mewujudkan pernikahan impian Anda. Hubungi kami sekarang! Chat via WhatsApp Kirim Email",
+        "score": 5,
+        "type": "image",
+        "group_id": 2,
+        "format": "png",
+        "width": null
+      },
+      {
+        "src": "/img/background/bg-flower.png",
+        "data": "",
+        "alt": "flower",
+        "desc": "Tentang Kami Kami hadir untuk menjadikan hari istimewa Anda lebih berkesan melalui layanan yang elegan, personal, dan profesional. Tim Profesional Dinar Makeup Filosofi Kami Dinar Makeup hadir dari kecintaan mendalam terhadap dunia kecantikan dan momen pernikahan, dengan tujuan memberikan pengalaman yang elegan, personal, dan tak terlupakan bagi setiap calon pengantin. Visi Kami Menjadi mitra terpercaya dan pilihan utama dalam dunia Wedding Organizer dan Makeup Profesional di Bandung dan sekitarnya, dengan mengutamakan kualitas layanan, kepercayaan, dan estetika yang konsisten. Misi Kami \"Membantu pasangan pengantin merancang dan melaksanakan pernikahan dengan sempurna melalui layanan yang profesional, personal, dan inovatif.\" Pengalaman 5+ Tahun Di industri pernikahan | Since 2016 Spesialisasi Makeup Profesional & Elegant Selengkapnya Galeri Kami Kenangan Terindah Untuk Pasangan yang Serasi Makeup Tata rias profesional untuk penampilan sempurna Dekorasi Transformasi ruangan sesuai tema pernikahan Anda Selengkapnya Paket Paket yang Disesuaikan untuk Setiap Cerita Cinta Anda Gallery Preview Rp\u00a00 Wedding Fitur Sorotan Detail Paket Order Batal Selengkapnya Ulasan Tentang Kami Suara Hati Klien yang Telah Kami Layani Semua Pelanggan yang Memberikan Feedback Jane D \"Pelayanan dari Dinar Makeup sangat memuaskan! Hasil makeup natural dan tahan lama seharian.\" Harsh P. \"Pelayanan dari Dinar Makeup sangat memuaskan! Hasil makeup natural dan tahan lama seharian.\" Jane D \"Pelayanan dari Dinar Makeup sangat memuaskan! Hasil makeup natural dan tahan lama seharian.\" Harsh P. \"Pelayanan dari Dinar Makeup sangat memuaskan! Hasil makeup natural dan tahan lama seharian.\" Tim Kami Profesional di Balik Setiap Momen Tak Terlupakan Kotak Kami Hubungi Tim Dinar Makeup \"Siap merancang hari spesial Anda? Hubungi kami untuk konsultasi gratis. Kami dengan senang hati akan membantu menjawab semua pertanyaan Anda dan memberikan solusi terbaik untuk pernikahan Anda.\" Alamat Studio KP Pangakalan Raja, Jl. Pangkalan Raja, RT.001/RW.005 Desa, Sukamukti, Kec. Majalaya, Kabupaten Bandung, Jawa Barat 40382 Telepon/WhatsApp 0898-0000-845 Email dinar.dumilah@gmail.com Instagram @dinarmakeup Jam Operasional Senin - Sabtu 09.00 \u2013 17.00 WIB Punya Pertanyaan? Tim kami siap membantu Anda mewujudkan pernikahan impian Anda. Hubungi kami sekarang! Chat via WhatsApp Kirim Email",
+        "score": 5,
+        "type": "image",
+        "group_id": 3,
+        "format": "png",
+        "width": null
+      },
+      {
+        "src": "/img/background/bg-flower.png",
+        "data": "",
+        "alt": "flower",
+        "desc": "Tentang Kami Kami hadir untuk menjadikan hari istimewa Anda lebih berkesan melalui layanan yang elegan, personal, dan profesional. Tim Profesional Dinar Makeup Filosofi Kami Dinar Makeup hadir dari kecintaan mendalam terhadap dunia kecantikan dan momen pernikahan, dengan tujuan memberikan pengalaman yang elegan, personal, dan tak terlupakan bagi setiap calon pengantin. Visi Kami Menjadi mitra terpercaya dan pilihan utama dalam dunia Wedding Organizer dan Makeup Profesional di Bandung dan sekitarnya, dengan mengutamakan kualitas layanan, kepercayaan, dan estetika yang konsisten. Misi Kami \"Membantu pasangan pengantin merancang dan melaksanakan pernikahan dengan sempurna melalui layanan yang profesional, personal, dan inovatif.\" Pengalaman 5+ Tahun Di industri pernikahan | Since 2016 Spesialisasi Makeup Profesional & Elegant Selengkapnya Galeri Kami Kenangan Terindah Untuk Pasangan yang Serasi Makeup Tata rias profesional untuk penampilan sempurna Dekorasi Transformasi ruangan sesuai tema pernikahan Anda Selengkapnya Paket Paket yang Disesuaikan untuk Setiap Cerita Cinta Anda Gallery Preview Rp\u00a00 Wedding Fitur Sorotan Detail Paket Order Batal Selengkapnya Ulasan Tentang Kami Suara Hati Klien yang Telah Kami Layani Semua Pelanggan yang Memberikan Feedback Jane D \"Pelayanan dari Dinar Makeup sangat memuaskan! Hasil makeup natural dan tahan lama seharian.\" Harsh P. \"Pelayanan dari Dinar Makeup sangat memuaskan! Hasil makeup natural dan tahan lama seharian.\" Jane D \"Pelayanan dari Dinar Makeup sangat memuaskan! Hasil makeup natural dan tahan lama seharian.\" Harsh P. \"Pelayanan dari Dinar Makeup sangat memuaskan! Hasil makeup natural dan tahan lama seharian.\" Tim Kami Profesional di Balik Setiap Momen Tak Terlupakan Kotak Kami Hubungi Tim Dinar Makeup \"Siap merancang hari spesial Anda? Hubungi kami untuk konsultasi gratis. Kami dengan senang hati akan membantu menjawab semua pertanyaan Anda dan memberikan solusi terbaik untuk pernikahan Anda.\" Alamat Studio KP Pangakalan Raja, Jl. Pangkalan Raja, RT.001/RW.005 Desa, Sukamukti, Kec. Majalaya, Kabupaten Bandung, Jawa Barat 40382 Telepon/WhatsApp 0898-0000-845 Email dinar.dumilah@gmail.com Instagram @dinarmakeup Jam Operasional Senin - Sabtu 09.00 \u2013 17.00 WIB Punya Pertanyaan? Tim kami siap membantu Anda mewujudkan pernikahan impian Anda. Hubungi kami sekarang! Chat via WhatsApp Kirim Email",
+        "score": 5,
+        "type": "image",
+        "group_id": 4,
+        "format": "png",
+        "width": null
+      },
+      {
+        "src": "/img/about/IMG_5926.PNG",
+        "data": "",
+        "alt": "Dinar Makeup Professional Team",
+        "desc": "Tim Profesional Dinar Makeup",
+        "score": 5,
+        "type": "image",
+        "group_id": 5,
+        "format": "png",
+        "width": null
+      },
+      {
+        "src": "/img/gallery/teams/IMG_2331.jpg",
+        "data": "",
+        "alt": "Team",
+        "desc": "Tim Kami Profesional di Balik Setiap Momen Tak Terlupakan",
+        "score": 3,
+        "type": "image",
+        "group_id": 10,
+        "format": "jpg",
+        "width": null
+      },
+      {
+        "src": "/img/gallery/teams/IMG_5935.jpg",
+        "data": "",
+        "alt": "Team",
+        "desc": "Tim Kami Profesional di Balik Setiap Momen Tak Terlupakan",
+        "score": 4,
+        "type": "image",
+        "group_id": 12,
+        "format": "jpg",
+        "width": null
+      },
+      {
+        "src": "/img/gallery/teams/IMG_5975.jpg",
+        "data": "",
+        "alt": "Team",
+        "desc": "Tim Kami Profesional di Balik Setiap Momen Tak Terlupakan",
+        "score": 4,
+        "type": "image",
+        "group_id": 13,
+        "format": "jpg",
+        "width": null
+      },
+      {
+        "src": "/img/gallery/teams/IMG_5976.jpg",
+        "data": "",
+        "alt": "Team",
+        "desc": "Tim Kami Profesional di Balik Setiap Momen Tak Terlupakan",
+        "score": 4,
+        "type": "image",
+        "group_id": 14,
+        "format": "jpg",
+        "width": null
+      },
+      {
+        "src": "/img/gallery/teams/IMG_5978.jpg",
+        "data": "",
+        "alt": "Team",
+        "desc": "Tim Kami Profesional di Balik Setiap Momen Tak Terlupakan",
+        "score": 4,
+        "type": "image",
+        "group_id": 15,
+        "format": "jpg",
+        "width": null
+      },
+      {
+        "src": "/img/gallery/teams/IMG_5979.jpg",
+        "data": "",
+        "alt": "Team",
+        "desc": "Tim Kami Profesional di Balik Setiap Momen Tak Terlupakan",
+        "score": 4,
+        "type": "image",
+        "group_id": 16,
+        "format": "jpg",
+        "width": null
+      },
+      {
+        "src": "/img/gallery/teams/IMG_5981.jpg",
+        "data": "",
+        "alt": "Team",
+        "desc": "Tim Kami Profesional di Balik Setiap Momen Tak Terlupakan",
+        "score": 4,
+        "type": "image",
+        "group_id": 17,
+        "format": "jpg",
+        "width": null
+      },
+      {
+        "src": "/img/gallery/teams/IMG_5983.jpg",
+        "data": "",
+        "alt": "Team",
+        "desc": "Tim Kami Profesional di Balik Setiap Momen Tak Terlupakan",
+        "score": 4,
+        "type": "image",
+        "group_id": 18,
+        "format": "jpg",
+        "width": null
+      }
+    ],
+    "videos": [],
+    "audios": []
+  }
+}
+
+==================================================================== Content Halaman 
+
+  * Home
+  * About
+  * Gallery
+  * Pricing
+  * Contact
+
+
+![](https://ai-dinar-makeup-official-website.vercel.app/img/logo/logoDinarMakeupCrop.jpg)Dinar Makeups
+  * Home
+  * About
+  * Gallery
+  * Pricing
+  * Contact
+
+Login
+TATA RIAS & WO PROFESIONAL
+# DINAR MAKEUP
+Dengan Konsep Modern dan Kontemporer
+JELAJAHI
+![flower](https://ai-dinar-makeup-official-website.vercel.app/img/background/bg-flower.png)![flower](https://ai-dinar-makeup-official-website.vercel.app/img/background/bg-flower.png)![flower](https://ai-dinar-makeup-official-website.vercel.app/img/background/bg-flower.png)![flower](https://ai-dinar-makeup-official-website.vercel.app/img/background/bg-flower.png)
+## Tentang Kami
+Kami hadir untuk menjadikan hari istimewa Anda lebih berkesan melalui layanan yang elegan, personal, dan profesional.
+![Dinar Makeup Professional Team](https://ai-dinar-makeup-official-website.vercel.app/img/about/IMG_5926.PNG)
+Tim Profesional Dinar Makeup
+### Filosofi Kami
+Dinar Makeup hadir dari kecintaan mendalam terhadap dunia kecantikan dan momen pernikahan, dengan tujuan memberikan pengalaman yang elegan, personal, dan tak terlupakan bagi setiap calon pengantin.
+### Visi Kami
+Menjadi mitra terpercaya dan pilihan utama dalam dunia Wedding Organizer dan Makeup Profesional di Bandung dan sekitarnya, dengan mengutamakan kualitas layanan, kepercayaan, dan estetika yang konsisten.
+### Misi Kami
+"Membantu pasangan pengantin merancang dan melaksanakan pernikahan dengan sempurna melalui layanan yang profesional, personal, dan inovatif."
+Pengalaman
+5+ Tahun
+Di industri pernikahan | Since 2016
+Spesialisasi
+Makeup
+Profesional & Elegant
+Selengkapnya
+## Galeri Kami
+Kenangan Terindah Untuk Pasangan yang Serasi
+## Makeup
+Tata rias profesional untuk penampilan sempurna
+## Dekorasi
+Transformasi ruangan sesuai tema pernikahan Anda
+Selengkapnya
+## Paket
+Paket yang Disesuaikan untuk Setiap Cerita Cinta Anda
+### Gallery Preview
+Rp 0
+Wedding
+### Fitur Sorotan
+### Detail Paket
+OrderBatal
+Selengkapnya
+## Ulasan Tentang Kami
+Suara Hati Klien yang Telah Kami Layani
+## Semua Pelanggan yang Memberikan Feedback
+![Customer](https://i.pravatar.cc/150?img=10)
+#### Jane D
+"Pelayanan dari Dinar Makeup sangat memuaskan! Hasil makeup natural dan tahan lama seharian."
+![Customer](https://i.pravatar.cc/150?img=11)
+#### Harsh P.
+"Pelayanan dari Dinar Makeup sangat memuaskan! Hasil makeup natural dan tahan lama seharian."
+![Customer](https://i.pravatar.cc/150?img=12)
+#### Jane D
+"Pelayanan dari Dinar Makeup sangat memuaskan! Hasil makeup natural dan tahan lama seharian."
+![Customer](https://i.pravatar.cc/150?img=13)
+#### Harsh P.
+"Pelayanan dari Dinar Makeup sangat memuaskan! Hasil makeup natural dan tahan lama seharian."
+## Tim Kami
+Profesional di Balik Setiap Momen Tak Terlupakan
+![Team](https://ai-dinar-makeup-official-website.vercel.app/img/gallery/teams/IMG_2331.jpg)
+![Team](https://ai-dinar-makeup-official-website.vercel.app/img/gallery/teams/IMG_5922.jpg)
+![Team](https://ai-dinar-makeup-official-website.vercel.app/img/gallery/teams/IMG_5935.jpg)
+![Team](https://ai-dinar-makeup-official-website.vercel.app/img/gallery/teams/IMG_5975.jpg)
+![Team](https://ai-dinar-makeup-official-website.vercel.app/img/gallery/teams/IMG_5976.jpg)
+![Team](https://ai-dinar-makeup-official-website.vercel.app/img/gallery/teams/IMG_5978.jpg)
+![Team](https://ai-dinar-makeup-official-website.vercel.app/img/gallery/teams/IMG_5979.jpg)
+![Team](https://ai-dinar-makeup-official-website.vercel.app/img/gallery/teams/IMG_5981.jpg)
+![Team](https://ai-dinar-makeup-official-website.vercel.app/img/gallery/teams/IMG_5983.jpg)
+![Team](https://ai-dinar-makeup-official-website.vercel.app/img/gallery/teams/IMG_5985.jpg)
+![Team](https://ai-dinar-makeup-official-website.vercel.app/img/gallery/teams/IMG_9706.jpeg)
+# Kotak Kami
+Hubungi Tim Dinar Makeup
+"Siap merancang hari spesial Anda? Hubungi kami untuk konsultasi gratis. Kami dengan senang hati akan membantu menjawab semua pertanyaan Anda dan memberikan solusi terbaik untuk pernikahan Anda."
+### Alamat Studio
+KP Pangakalan Raja, Jl. Pangkalan Raja, RT.001/RW.005 Desa, Sukamukti, Kec. Majalaya, Kabupaten Bandung, Jawa Barat 40382
+### Telepon/WhatsApp
+[0898-0000-845](tel:08980000845)
+### Email
+dinar.dumilah@gmail.com
+### Instagram
+[@dinarmakeup](https://instagram.com/dinarmakeup)
+### Jam Operasional
+Senin - Sabtu
+09.00 – 17.00 WIB
+## Punya Pertanyaan?
+Tim kami siap membantu Anda mewujudkan pernikahan impian Anda. Hubungi kami sekarang!
+[Chat via WhatsApp](https://wa.me/628980000845)Kirim Email
+DM
+### Dinar Makeup Assistant
+Online
+Halo! Saya Dinar, asisten virtual Dinar Makeup. Ada yang bisa saya bantu?
+Enter valid email address
+Copyright © 2025 - All right reserved by Dinar Makeup
+
+===========================================================================================================================================
+===========================================================================================================================================
+===========================================================================================================================================
+
+==================================================================== Meta JSON Halaman 
+
+{
+  "url": "https://ai-dinar-makeup-official-website.vercel.app/about",
+  "status": 200,
+  "links": {
+    "internal": [],
+    "external": []
+  },
+  "media": {
+    "images": [
+      {
+        "src": "/img/about/IMG_5926.PNG",
+        "data": "",
+        "alt": "Dinar Makeup Professional Team",
+        "desc": "Tim Profesional Dinar Makeup",
+        "score": 4,
+        "type": "image",
+        "group_id": 1,
+        "format": "png",
+        "width": null
+      }
+    ],
+    "videos": [],
+    "audios": []
+  }
+}
+
+==================================================================== Content Halaman 
+
+  * Home
+  * About
+  * Gallery
+  * Pricing
+  * Contact
+
+
+![](https://ai-dinar-makeup-official-website.vercel.app/img/logo/logoDinarMakeupCrop.jpg)Dinar Makeups
+  * Home
+  * About
+  * Gallery
+  * Pricing
+  * Contact
+
+Login
+![Dinar Makeup Professional Team](https://ai-dinar-makeup-official-website.vercel.app/img/about/IMG_5926.PNG)
+Tim Profesional Dinar Makeup
+### Filosofi Kami
+Dinar Makeup hadir dari kecintaan mendalam terhadap dunia kecantikan dan momen pernikahan, dengan tujuan memberikan pengalaman yang elegan, personal, dan tak terlupakan bagi setiap calon pengantin.
+### Visi Kami
+Menjadi mitra terpercaya dan pilihan utama dalam dunia Wedding Organizer dan Makeup Profesional di Bandung dan sekitarnya, dengan mengutamakan kualitas layanan, kepercayaan, dan estetika yang konsisten.
+### Misi Kami
+"Membantu pasangan pengantin merancang dan melaksanakan pernikahan dengan sempurna melalui layanan yang profesional, personal, dan inovatif."
+Pengalaman
+5+ Tahun
+Di industri pernikahan | Since 2016
+Spesialisasi
+Makeup
+Profesional & Elegant
+### Tentang Dinar Makeup
+Kami memahami bahwa setiap pasangan memiliki cerita dan impian unik. Misi kami adalah mewujudkan impian tersebut melalui layanan yang personal, penuh perhatian, dan berkualitas tinggi.
+Dari tata rias hingga pengelolaan acara, kami hadir untuk membantu Anda menikmati setiap momen dengan mudah dan tanpa khawatir. Setiap detail diperhatikan dengan seksama untuk menciptakan pengalaman yang sempurna.
+Sebagai penyedia layanan wedding organizer terpercaya, Dinar Makeup berkomitmen untuk mewujudkan momen istimewa Anda menjadi kenangan tak terlupakan. Dengan perpaduan pengalaman profesional dan pendekatan personal, kami menawarkan solusi lengkap untuk pernikahan Anda.
+Bersama kami, impian pernikahan Anda bukan sekadar rencana, melainkan realita yang indah dan penuh makna. Setiap pernikahan adalah cerita unik yang layak mendapatkan sentuhan spesial.
+DM
+### Dinar Makeup Assistant
+Online
+Halo! Saya Dinar, asisten virtual Dinar Makeup. Ada yang bisa saya bantu?
+Enter valid email address
+Copyright © 2025 - All right reserved by Dinar Makeup
+
+===========================================================================================================================================
+===========================================================================================================================================
+===========================================================================================================================================
+
+==================================================================== Meta JSON Halaman 
+
+{
+  "url": "https://ai-dinar-makeup-official-website.vercel.app/gallery",
+  "status": 200,
+  "links": {
+    "internal": [],
+    "external": []
+  },
+  "media": {
+    "images": [
+      {
+        "src": "/img/gallery/weddings/main/makeup.png",
+        "data": "",
+        "alt": "Makeup",
+        "desc": "Makeup Tata rias profesional untuk penampilan sempurna",
+        "score": 3,
+        "type": "image",
+        "group_id": 1,
+        "format": "png",
+        "width": null
+      },
+      {
+        "src": "/img/gallery/weddings/main/dekorasi.png",
+        "data": "",
+        "alt": "Dekorasi",
+        "desc": "Dekorasi Transformasi ruangan sesuai tema pernikahan Anda",
+        "score": 3,
+        "type": "image",
+        "group_id": 2,
+        "format": "png",
+        "width": null
+      },
+      {
+        "src": "/img/gallery/weddings/main/dokumentasi.png",
+        "data": "",
+        "alt": "Dokumentasi",
+        "desc": "Dokumentasi Abadikan momen berharga dengan hasil terbaik",
+        "score": 3,
+        "type": "image",
+        "group_id": 3,
+        "format": "png",
+        "width": null
+      },
+      {
+        "src": "/img/gallery/weddings/main/wedding_organizer.png",
+        "data": "",
+        "alt": "Wedding Organizer",
+        "desc": "Wedding Organizer Kelola seluruh acara pernikahan dengan profesional",
+        "score": 3,
+        "type": "image",
+        "group_id": 4,
+        "format": "png",
+        "width": null
+      },
+      {
+        "src": "/img/gallery/weddings/IMG_5814.PNG",
+        "data": "",
+        "alt": "gallery-photo",
+        "desc": "Makeup Tata rias profesional untuk penampilan sempurna Dekorasi Transformasi ruangan sesuai tema pernikahan Anda Dokumentasi Abadikan momen berharga dengan hasil terbaik Wedding Organizer Kelola seluruh acara pernikahan dengan profesional",
+        "score": 3,
+        "type": "image",
+        "group_id": 5,
+        "format": "png",
+        "width": null
+      },
+      {
+        "src": "/img/gallery/makeups/IMG_5787.PNG",
+        "data": "",
+        "alt": "gallery-photo",
+        "desc": "Makeup Tata rias profesional untuk penampilan sempurna Dekorasi Transformasi ruangan sesuai tema pernikahan Anda Dokumentasi Abadikan momen berharga dengan hasil terbaik Wedding Organizer Kelola seluruh acara pernikahan dengan profesional",
+        "score": 3,
+        "type": "image",
+        "group_id": 6,
+        "format": "png",
+        "width": null
+      },
+      {
+        "src": "/img/gallery/weddings/IMG_5819.PNG",
+        "data": "",
+        "alt": "gallery-photo",
+        "desc": "Makeup Tata rias profesional untuk penampilan sempurna Dekorasi Transformasi ruangan sesuai tema pernikahan Anda Dokumentasi Abadikan momen berharga dengan hasil terbaik Wedding Organizer Kelola seluruh acara pernikahan dengan profesional",
+        "score": 3,
+        "type": "image",
+        "group_id": 7,
+        "format": "png",
+        "width": null
+      },
+      {
+        "src": "/img/gallery/weddings/IMG_5847.PNG",
+        "data": "",
+        "alt": "gallery-photo",
+        "desc": "Makeup Tata rias profesional untuk penampilan sempurna Dekorasi Transformasi ruangan sesuai tema pernikahan Anda Dokumentasi Abadikan momen berharga dengan hasil terbaik Wedding Organizer Kelola seluruh acara pernikahan dengan profesional",
+        "score": 3,
+        "type": "image",
+        "group_id": 8,
+        "format": "png",
+        "width": null
+      }
+    ],
+    "videos": [],
+    "audios": []
+  }
+}
+
+==================================================================== Content Halaman 
+
+  * Home
+  * About
+  * Gallery
+  * Pricing
+  * Contact
+
+
+![](https://ai-dinar-makeup-official-website.vercel.app/img/logo/logoDinarMakeupCrop.jpg)Dinar Makeups
+  * Home
+  * About
+  * Gallery
+  * Pricing
+  * Contact
+
+Login
+![Makeup](https://ai-dinar-makeup-official-website.vercel.app/img/gallery/weddings/main/makeup.png)
+## Makeup
+Tata rias profesional untuk penampilan sempurna
+![Dekorasi](https://ai-dinar-makeup-official-website.vercel.app/img/gallery/weddings/main/dekorasi.png)
+## Dekorasi
+Transformasi ruangan sesuai tema pernikahan Anda
+![Dokumentasi](https://ai-dinar-makeup-official-website.vercel.app/img/gallery/weddings/main/dokumentasi.png)
+## Dokumentasi
+Abadikan momen berharga dengan hasil terbaik
+![Wedding Organizer](https://ai-dinar-makeup-official-website.vercel.app/img/gallery/weddings/main/wedding_organizer.png)
+## Wedding Organizer
+Kelola seluruh acara pernikahan dengan profesional
+![gallery-photo](https://ai-dinar-makeup-official-website.vercel.app/img/gallery/weddings/IMG_5814.PNG)
+![gallery-photo](https://ai-dinar-makeup-official-website.vercel.app/img/gallery/makeups/IMG_5787.PNG)
+![gallery-photo](https://ai-dinar-makeup-official-website.vercel.app/img/gallery/weddings/IMG_5819.PNG)
+![gallery-photo](https://ai-dinar-makeup-official-website.vercel.app/img/gallery/weddings/IMG_5847.PNG)
+![gallery-photo](https://ai-dinar-makeup-official-website.vercel.app/img/gallery/makeups/IMG_5777.PNG)
+![gallery-photo](https://ai-dinar-makeup-official-website.vercel.app/img/gallery/weddings/IMG_5851.PNG)
+![gallery-photo](https://ai-dinar-makeup-official-website.vercel.app/img/gallery/makeups/IMG_5786.PNG)
+![gallery-photo](https://ai-dinar-makeup-official-website.vercel.app/img/gallery/weddings/IMG_5805.PNG)
+![gallery-photo](https://ai-dinar-makeup-official-website.vercel.app/img/gallery/makeups/IMG_5794.PNG)
+![gallery-photo](https://ai-dinar-makeup-official-website.vercel.app/img/gallery/weddings/IMG_5797.PNG)
+![gallery-photo](https://ai-dinar-makeup-official-website.vercel.app/img/gallery/weddings/IMG_5848.PNG)
+![gallery-photo](https://ai-dinar-makeup-official-website.vercel.app/img/gallery/weddings/IMG_5803.PNG)
+DM
+### Dinar Makeup Assistant
+Online
+Halo! Saya Dinar, asisten virtual Dinar Makeup. Ada yang bisa saya bantu?
+Enter valid email address
+Copyright © 2025 - All right reserved by Dinar Makeup
+
+===========================================================================================================================================
+===========================================================================================================================================
+===========================================================================================================================================
+
+==================================================================== Meta JSON Halaman 
+
+{
+  "url": "https://ai-dinar-makeup-official-website.vercel.app/pricing",
+  "status": 200,
+  "links": {
+    "internal": [],
+    "external": [
+      {
+        "href": "tel:0898000845",
+        "text": "0898-0000-845",
+        "title": "",
+        "base_domain": ""
+      }
+    ]
+  },
+  "media": {
+    "images": [],
+    "videos": [],
+    "audios": []
+  }
+}
+
+==================================================================== Content Halaman 
+
+  * Home
+  * About
+  * Gallery
+  * Pricing
+  * Contact
+
+
+![](https://ai-dinar-makeup-official-website.vercel.app/img/logo/logoDinarMakeupCrop.jpg)Dinar Makeups
+  * Home
+  * About
+  * Gallery
+  * Pricing
+  * Contact
+
+Login
+# Wedding Packages
+Paket yang Disesuaikan untuk Setiap Cerita Cinta
+### Gallery Preview
+Rp 0
+Wedding
+### Fitur Sorotan
+### Detail Paket
+OrderBatal
+# Makeup Packages
+Layanan Makeups profesional untuk acara-acara khusus Anda
+## Wedding Makeup Packages
+POPULAR
+## Makeup Wedding: Basic Wedding Package
+Rp 7.000.000
+  * Makeup akad
+  * Retouch makeup resepsi
+  * Sepasang baju akad (ready stock)
+  * 2 sepasang baju resepsi (ready stock)
+  * 2 pasang baju ibu dan bapa besan (ready stock)
+  * Makeup ibu cpw
+  * Makeup ibu cpp (Majalaya only)
+  * 4 pasang baju pagar ayu + makeup (ready stock)
+  * 2 pasang baju pagar bagus (ready stock)
+  * Free softens (normal only)
+  * Free henna & nail art
+  * Free fresh bunga melati
+
+
+Package Terms
+  * •DP minimal 50% untuk booking fix
+  * •Pelunasan wajib H-7
+  * •Jarak >15km kena charge transport
+  * •Makeup ibu cpp >5km dari gallery kena charge transport
+
+
+Book Now
+## Makeup Wedding: Standard Wedding Package
+Rp 6.000.000
+  * Makeup akad
+  * Retouch makeup resepsi
+  * Sepasang baju akad (ready stock)
+  * Sepasang baju resepsi (ready stock)
+  * 2 pasang baju ibu dan bapa besan (ready stock)
+  * Makeup ibu cpw (only)
+  * 2 pasang baju pagar ayu + makeup (ready stock)
+  * Free softens (normal only)
+  * Free henna & nail art
+  * Free fresh bunga melati
+
+
+Package Terms
+  * •DP minimal 50% untuk booking fix
+  * •Pelunasan wajib H-7
+  * •Jarak >15km kena charge transport
+
+
+Book Now
+## Makeup Wedding: Akad Only Package
+Rp 2.500.000 - Rp 3.000.000
+  * Makeup akad tanpa retouch
+  * Sepasang kebaya pengantin + riasan
+  * Free hena putih
+  * Free softens normal
+  * Siger Sunda (Rp 3.000.000 version)
+  * Free fresh melati (Rp 3.000.000 version)
+  * Free nail art (Rp 3.000.000 version)
+
+
+Package Terms
+  * •Akad di hari terpisah kena charge Rp 1.5jt
+  * •Jam kerja maksimal sampai jam 12
+  * •Tidak bisa di retouch dengan MUA lain
+  * •Acara harus di dalam rumah
+
+
+Book Now
+### Wedding Makeup General Terms & Conditions
+  * •DP minimal 50% untuk booking fix
+  * •Bila akad di hari terpisah kena charge jam kerja dan produk Rp 1.5jt
+  * •Tambahan makeup keluarga Rp 200.000/orang
+  * •Hairdo charge Rp 500.000/look (paes Rp 850.000)
+  * •Pemakaian attire perdana by request kena charge sesuai harga attire
+  * •Pengurangan attire tidak mengurangi harga paketan
+  * •Pelunasan wajib H-7 (bila tidak dilunasi dianggap cancel)
+  * •Jarak >15km kena charge transport
+  * •Harga melati sewaktu-waktu bisa berubah
+  * •Makeup ibu cpp >5km dari gallery kena charge transport
+  * •Acara akad harus di dalam rumah (kecuali booking paket resepsi)
+
+
+## Regular Makeup Packages
+POPULAR
+## Makeup Regular: Siraman Package
+By Owner:Rp 750.000
+By Team:Rp 600.000
+  * Makeup by owner or team
+  * Retouch makeup siraman
+  * Baju siraman included
+  * Bustie included
+  * Stagen included
+  * Samping included
+  * Hijabdo included
+
+
+Package Terms
+  * •Transport & accommodation not included
+  * •Softlens not included
+  * •Hairdo 1 look charge Rp 100.000
+
+
+Book Now
+## Makeup Regular: Pre-Wedding / Tunangan / Wisuda
+By Owner:Rp 350.000
+By Team:Rp 250.000
+  * Makeup only
+  * Simple hijabdo
+  * Makeup at gallery
+  * Home service available (min 2 people for tunangan/wisuda)
+
+
+Package Terms
+  * •Booking max H-1 month for weekends
+  * •Home service transport & accommodation not included
+  * •Softlens not included
+  * •Hairdo 1 look charge Rp 50.000
+
+
+Book Now
+## Makeup Regular: Bridesmaid/Family Makeup
+By Owner:Rp 300.000
+By Team:Rp 200.000
+  * Makeup only
+  * Simple hijabdo
+  * Makeup at gallery
+  * Home service available (min 3 people)
+
+
+Package Terms
+  * •Booking max H-1 month
+  * •Home service transport & accommodation not included
+  * •Softlens not included
+  * •Hairdo 1 look charge Rp 50.000
+
+
+Book Now
+### Regular Makeup General Terms & Conditions
+  * •Booking must be made at least 1 month in advance for weekend events
+  * •Transportation and accommodation costs are not included in the package price
+  * •Contact lenses (softlens) are not included
+  * •Additional charges apply for special hairdo requests
+  * •Home service available with minimum number of people
+  * •Prices may vary for special requests
+
+
+### For bookings and inquiries
+Contact us at [0898-0000-845](tel:0898000845)
+Instagram: @dinarmakeup
+DM
+### Dinar Makeup Assistant
+Online
+Halo! Saya Dinar, asisten virtual Dinar Makeup. Ada yang bisa saya bantu?
+Enter valid email address
+Copyright © 2025 - All right reserved by Dinar Makeup
+
+===========================================================================================================================================
+===========================================================================================================================================
+===========================================================================================================================================
+
+==================================================================== Meta JSON Halaman 
+
+{
+  "url": "https://ai-dinar-makeup-official-website.vercel.app/contact",
+  "status": 200,
+  "links": {
+    "internal": [],
+    "external": [
+      {
+        "href": "tel:08980000845",
+        "text": "0898-0000-845",
+        "title": "",
+        "base_domain": ""
+      },
+      {
+        "href": "mailto:dinar.dumilah@gmail.com",
+        "text": "dinar.dumilah@gmail.com",
+        "title": "",
+        "base_domain": ""
+      },
+      {
+        "href": "https://instagram.com/dinarmakeup",
+        "text": "@dinarmakeup",
+        "title": "",
+        "base_domain": "instagram.com"
+      },
+      {
+        "href": "https://wa.me/628980000845",
+        "text": "Chat via WhatsApp",
+        "title": "",
+        "base_domain": "wa.me"
+      }
+    ]
+  },
+  "media": {
+    "images": [],
+    "videos": [],
+    "audios": []
+  }
+}
+
+==================================================================== Content Halaman 
+
+  * Home
+  * About
+  * Gallery
+  * Pricing
+  * Contact
+
+
+![](https://ai-dinar-makeup-official-website.vercel.app/img/logo/logoDinarMakeupCrop.jpg)Dinar Makeups
+  * Home
+  * About
+  * Gallery
+  * Pricing
+  * Contact
+
+Login
+# Kotak Kami
+Hubungi Tim Dinar Makeup
+"Siap merancang hari spesial Anda? Hubungi kami untuk konsultasi gratis. Kami dengan senang hati akan membantu menjawab semua pertanyaan Anda dan memberikan solusi terbaik untuk pernikahan Anda."
+### Alamat Studio
+KP Pangakalan Raja, Jl. Pangkalan Raja, RT.001/RW.005 Desa, Sukamukti, Kec. Majalaya, Kabupaten Bandung, Jawa Barat 40382
+### Telepon/WhatsApp
+[0898-0000-845](tel:08980000845)
+### Email
+dinar.dumilah@gmail.com
+### Instagram
+[@dinarmakeup](https://instagram.com/dinarmakeup)
+### Jam Operasional
+Senin - Sabtu
+09.00 – 17.00 WIB
+## Punya Pertanyaan?
+Tim kami siap membantu Anda mewujudkan pernikahan impian Anda. Hubungi kami sekarang!
+[Chat via WhatsApp](https://wa.me/628980000845)Kirim Email
+DM
+### Dinar Makeup Assistant
+Online
+Halo! Saya Dinar, asisten virtual Dinar Makeup. Ada yang bisa saya bantu?
+Enter valid email address
+Copyright © 2025 - All right reserved by Dinar Makeup
+
+===========================================================================================================================================
+===========================================================================================================================================
+===========================================================================================================================================
+
+==================================================================== Meta JSON Halaman 
+
+{
+  "url": "https://ai-dinar-makeup-official-website.vercel.app/login",
+  "status": 200,
+  "links": {
+    "internal": [],
+    "external": []
+  },
+  "media": {
+    "images": [],
+    "videos": [],
+    "audios": []
+  }
+}
+
+==================================================================== Content Halaman 
+
+## Login
+Email
+PasswordShow Password
+Login
+Atau
+Dont have account ?Register
+Forgot Password ?
+DM
+### Dinar Makeup Assistant
+Online
+Halo! Saya Dinar, asisten virtual Dinar Makeup. Ada yang bisa saya bantu?
+Enter valid email address
+
+===========================================================================================================================================
+===========================================================================================================================================
+===========================================================================================================================================
+
+==================================================================== Meta JSON Halaman 
+
+{
+  "url": "https://ai-dinar-makeup-official-website.vercel.app/register",
+  "status": 200,
+  "links": {
+    "internal": [],
+    "external": []
+  },
+  "media": {
+    "images": [],
+    "videos": [],
+    "audios": []
+  }
+}
+
+==================================================================== Content Halaman 
+
+## Register
+Name
+Username
+Email
+PasswordShow Password
+Confirm PasswordShow Password
+Register
+Already have account ?Login
+DM
+### Dinar Makeup Assistant
+Online
+Halo! Saya Dinar, asisten virtual Dinar Makeup. Ada yang bisa saya bantu?
+Enter valid email address
+
+===========================================================================================================================================
+===========================================================================================================================================
+===========================================================================================================================================
+
+==================================================================== Meta JSON Halaman 
+
+{
+  "url": "https://ai-dinar-makeup-official-website.vercel.app/forgot-password",
+  "status": 200,
+  "links": {
+    "internal": [],
+    "external": []
+  },
+  "media": {
+    "images": [],
+    "videos": [],
+    "audios": []
+  }
+}
+
+==================================================================== Content Halaman 
+
+## Forget Password
+Email
+Reset Password
+DM
+### Dinar Makeup Assistant
+Online
+Halo! Saya Dinar, asisten virtual Dinar Makeup. Ada yang bisa saya bantu?
+Enter valid email address
